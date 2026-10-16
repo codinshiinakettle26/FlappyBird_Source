@@ -1,0 +1,16 @@
+.vs
+.vscode
+.code-workspace
+.git
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.suo
+*.VC.db
+.ignore
+.vsconfig
+*.slnx
+*.code-workspace
